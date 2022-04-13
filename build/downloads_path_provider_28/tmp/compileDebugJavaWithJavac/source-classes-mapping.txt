@@ -1,0 +1,4 @@
+it/nplace/downloadspathprovider/BuildConfig.java
+ it.nplace.downloadspathprovider.BuildConfig
+it/nplace/downloadspathprovider/DownloadsPathProviderPlugin.java
+ it.nplace.downloadspathprovider.DownloadsPathProviderPlugin

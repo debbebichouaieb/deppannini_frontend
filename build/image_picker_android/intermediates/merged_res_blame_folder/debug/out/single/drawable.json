@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Chams Ben Alaya\\Desktop\\PFE-chams\\flutter_app_depanini\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Chams Ben Alaya\\.gradle\\caches\\transforms-3\\6e341221cbbc1bcf593448d6995ba8eb\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chams Ben Alaya\\Desktop\\PFE-chams\\flutter_app_depanini\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Chams Ben Alaya\\.gradle\\caches\\transforms-3\\6e341221cbbc1bcf593448d6995ba8eb\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chams Ben Alaya\\Desktop\\PFE-chams\\flutter_app_depanini\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Chams Ben Alaya\\.gradle\\caches\\transforms-3\\6e341221cbbc1bcf593448d6995ba8eb\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chams Ben Alaya\\Desktop\\PFE-chams\\flutter_app_depanini\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Chams Ben Alaya\\.gradle\\caches\\transforms-3\\6e341221cbbc1bcf593448d6995ba8eb\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    }
+]

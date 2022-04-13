@@ -1,0 +1,89 @@
+name: Deppannini
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.3
+  get_ip: ^0.4.0
+  flutter_facebook_login: ^3.0.0
+
+
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  dio: any
+  http: any
+  http_parser: any
+  shared_preferences: any
+  image_picker: any
+  sms_autofill: any
+  location: ^2.3.5
+  fluttertoast: ^8.0.8
+  geocoding: ^2.0.1
+  geolocator: ^7.7.1
+  animated_bottom_navigation_bar: ^0.3.2
+  auto_size_text: ^3.0.0-nullsafety.0
+  date_format: ^2.0.4
+  flutter_socket_io: ^0.6.0
+  scoped_model: ^1.0.1
+  web_socket_channel: ^2.0.0
+  url_launcher: ^6.0.0
+  favorite_button: ^0.0.4
+  syncfusion_flutter_pdfviewer: ^19.4.47-beta
+  path_provider: ^2.0.8
+  downloads_path_provider_28: ^0.1.2
+  permission_handler: ^8.3.0
+  open_file: ^3.2.1
+  flutter_local_notifications: ^9.2.0
+  table_calendar: ^2.2.1
+  google_maps_flutter: ^2.0.1
+  flutter_facebook_login: ^3.0.0
+  flutter_launcher_icons: "^0.9.2"
+
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/app_logo.png"
+
+
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+   - assets/images/1.png
+   - assets/images/2.png
+   - assets/images/3.png
+   - assets/images/5.png
+   - assets/images/tel.png
+   - assets/images/message.png
+   - assets/images/forAll.png
+   - assets/images/callCenter.png
+   - assets/images/reclam.png
+   - assets/images/heart.png
+   - assets/images/stop.png
+   - assets/images/janitors.png
+   - assets/audio/glitter.mp3
+   - assets/pdf/dfdf.pdf
+   - assets/images/logo.png
+
+  fonts:
+   - family: CM Sans Serif
+     fonts:
+       - asset: assets/fonts/cm_sans_serif_2012.ttf
